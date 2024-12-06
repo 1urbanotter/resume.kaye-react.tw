@@ -38,9 +38,6 @@ coverage/
 *.tmp
 *.swp
 
-# Ignore compiled Tailwind CSS (if applicable)
-src/styles.css
-
 # Generated files from favicon
 public/favicon_io/
 
