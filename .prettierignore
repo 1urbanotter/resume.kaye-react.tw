@@ -1,0 +1,21 @@
+# Ignore build output and dependencies
+node_modules/
+build/
+dist/
+
+# Ignore system and IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Ignore test coverage
+coverage/
+
+# Public assets
+public/favicon_io/
+
+# Optional: Ignore compiled TailwindCSS output
+src/styles.css
+
+# Optional: Ignore all public files (if desired)
+public/*
